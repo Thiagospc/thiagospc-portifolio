@@ -48,7 +48,7 @@ class App extends Component {
                                 - Sou Desenvolvedor Web Frontend.<br />
                                 - Atualmente estou estudando e trabalhando 
                                 com programação, utilizando as tecnologias React.js e Node.js. <br />
-                                - Como desenvolvedor, me interesso muito pela área de software, 
+                                - Como desenvolvedor, me interesso muito pela área de software e
                                 estou sempre pronto para aprender novos tópicos, tendências e como se 
                                 manter atualizado sobre as funções na profissão. <br />
                                 - Tenho o cuidado de trabalhar com as melhores práticas de 
