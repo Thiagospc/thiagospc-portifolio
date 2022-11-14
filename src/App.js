@@ -57,6 +57,7 @@ class App extends Component {
                                 Sinta-se livre para me contatar 🙂 <br /> <br />
                                 GitHub: https://github.com/Thiagospc
                                 </p>
+                                
                                
 
                             </div>
