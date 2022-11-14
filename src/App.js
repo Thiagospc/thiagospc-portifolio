@@ -45,13 +45,16 @@ class App extends Component {
                                 </h2>
 
                                 <p className="main-sobremim_primary--paragraph">
-                                Olá Meu nome é Thiago Santos e sou Desenvolvedor Web frontend que estudo e 
-                                trabalha com programação e computação desde 2017 quando tive meu primeiro contato 
-                                com o sistema operacional Linux. Como desenvolvedor de software apaixonado por sistemas tecnológicos, 
-                                estou sempre pronto para aprender novos tópicos, tendências e como se manter atualizado sobre as funções na profissão. 
-                                Após um estágio recente, atualmente estou trabalhando com React.Js e desenvolvimento web frontend. Tenho o cuidado de trabalhar 
-                                com as melhores práticas de desenvolvimento web e manter sempre comigo uma atitude de aprendizagem ao longo da vida! <br />
-                                Sinta-se livre para me contatar 🙂 <br/>
+                                - Sou Desenvolvedor Web Frontend.<br />
+                                - Atualmente estou estudando e trabalhando 
+                                com programação, utilizando as tecnologias React.js e Node.js. <br />
+                                - Como desenvolvedor de software apaixonado por sistemas tecnológicos, 
+                                estou sempre pronto para aprender novos tópicos, tendências e como se 
+                                manter atualizado sobre as funções na profissão. <br />
+                                - Tenho o cuidado de trabalhar com as melhores práticas de 
+                                desenvolvimento web e manter sempre comigo uma atitude de
+                                 aprendizagem ao longo da vida! <br /><br />
+                                Sinta-se livre para me contatar 🙂 <br /> <br />
                                 GitHub: https://github.com/Thiagospc
                                 </p>
                                
